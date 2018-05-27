@@ -1,0 +1,19 @@
+---
+title: Hugo, websites and blogdown
+author: Jeffrey S. Racine
+date: '2018-05-27'
+slug: hugo-websites-and-blogdown
+categories:
+  - R
+  - RStudio
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+This week I became aware of blogdown (https://bookdown.org/yihui/blogdown). Initially, given the name, I presumed that it was an R package that facilitated the creation of a blog. But it is much much more than that. Previously I was using reproducible tools by the author of blogdown (https://rmarkdown.rstudio.com and https://bookdown.org/yihui/bookdown) which can be used to create sophisticated products including books and research papers with an eye on reproducibility.
+
+However, markdown and bookdown are referred to as "formal" while blogdown is referred to as "casual" by its creator. I have been using markdown to create websites, and that works brilliantly. But blogdown adopts Hugo (https://gohugo.io) and provides disqus support (https://disqus.com) and allows you to get up to speed creating static sites in an open and free environment, accomplished by using github (https://github.com) and netlify (https://www.netlify.com).
+
+I found the notes by Peter Baumgartner (https://notes.peter-baumgartner.net) to be most valuable.
