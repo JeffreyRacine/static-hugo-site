@@ -33,6 +33,12 @@ weight = 5
  
 +++
 
+# About
+
+This website is for discussions about any manner of things, academic or otherwise. One difference between this site and my official academic website is the presence of a blog.
+
+My official McMaster academic website can be found at https://socialsciences.mcmaster.ca/people/racinej
+
 # Biography
 
 I am a Professor in the Department of Economics and a Professor in the Graduate Program in Statistics in the Department of Mathematics and Statistics at McMaster University. I occupy the Senator William McMaster Chair in Econometrics and is a Fellow of the Journal of Econometrics. I have held previous appointments at Syracuse University, the University of South Florida, the University of California San Diego (two-year visiting appointment), and York University.
@@ -41,4 +47,4 @@ My research interests include nonparametric estimation and inference, shape cons
 
 I am currently serving as an Associate Editor for Econometric Reviews and as the Deputy Editor-in-Chief for Econometrics.
 
-My official McMaster academic website can be found at https://socialsciences.mcmaster.ca/people/racinej
+
