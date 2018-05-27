@@ -165,23 +165,6 @@ enableGitInfo = false
   custom_css = []
   custom_js  = []
 
-  # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
-    time = true
-
-  # Configuration of project pages.
-  [params.projects]
-    # List publications and talks related to the project?
-    list_children = true
-
-    # Publication list format.
-    #   0 = Simple
-    #   1 = Detailed
-    #   2 = APA
-    #   3 = MLA
-    publication_format = 3
-
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
