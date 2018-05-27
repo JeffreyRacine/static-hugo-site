@@ -33,15 +33,15 @@ weight = 5
  
 +++
 
-# About
+# About This Site
 
-This website is for discussions about any manner of things, academic or otherwise. One difference between this site and my official academic website is the presence of a blog.
+This website exists mainly to facilitate discussion about any manner of things, academic or otherwise. If this site has a bias, it is likely towards computing technology that streamlines workflow including tools for reproducible research, by way of illustration. One difference between this site and my official academic website is the presence of a blog that presents a forum for further discussion in the public sphere.
 
-My official McMaster academic website can be found at https://socialsciences.mcmaster.ca/people/racinej
+If you are searching for working papers, information about R packages I have authored, a curriculum vitae, course information and the like, kindly visit my official McMaster academic website can be found at https://socialsciences.mcmaster.ca/people/racinej
 
-# Biography
+# About Me
 
-I am a Professor in the Department of Economics and a Professor in the Graduate Program in Statistics in the Department of Mathematics and Statistics at McMaster University. I occupy the Senator William McMaster Chair in Econometrics and is a Fellow of the Journal of Econometrics. I have held previous appointments at Syracuse University, the University of South Florida, the University of California San Diego (two-year visiting appointment), and York University.
+I am a Professor in the Department of Economics and a Professor in the Graduate Program in Statistics in the Department of Mathematics and Statistics at McMaster University, which is located in Southern Ontario, Canada. I occupy the Senator William McMaster Chair in Econometrics and is a Fellow of the Journal of Econometrics. I have held previous appointments at Syracuse University, the University of South Florida, the University of California San Diego (two-year visiting appointment), and York University.
 
 My research interests include nonparametric estimation and inference, shape constrained estimation, cross-validatory model selection, frequentist model averaging, nonparametric instrumental methods, and entropy-based measures of dependence and their statistical underpinnings. I am also interested in parallel distributed computing paradigms and their application to computationally intensive nonparametric estimators.
 
