@@ -41,3 +41,4 @@ My research interests include nonparametric estimation and inference, shape cons
 
 I am currently serving as an Associate Editor for Econometric Reviews and as the Deputy Editor-in-Chief for Econometrics.
 
+My official McMaster academic website can be found at https://socialsciences.mcmaster.ca/people/racinej
