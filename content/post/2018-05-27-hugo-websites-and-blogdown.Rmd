@@ -14,4 +14,4 @@ This week I became aware of the R package blogdown (https://bookdown.org/yihui/b
 
 However, markdown and bookdown are referred to as "formal" while blogdown is referred to as "casual" by its creator. I have been using markdown to create websites, and that works brilliantly. But blogdown adopts Hugo (https://gohugo.io) and provides disqus support (https://disqus.com) and allows you to get up to speed creating static sites in an open and free environment, accomplished by using GitHub (https://github.com) and netlify (https://www.netlify.com).
 
-Naturally, this site was created using blogdown, and you can clone this project from my GitHub page and modify to suit your needs (https://github.com/JeffreyRacine/static-hugo-site). I found the blogdown tutorial by Peter Baumgartner to be most valuable (https://notes.peter-baumgartner.net).
+This site was created using blogdown, and you can clone this project from my GitHub page and modify to suit your needs (https://github.com/JeffreyRacine/static-hugo-site). I found the blogdown tutorial by Peter Baumgartner to be most valuable (https://notes.peter-baumgartner.net).
