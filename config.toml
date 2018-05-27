@@ -228,3 +228,8 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+# Hugo version
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.30"
