@@ -10,7 +10,7 @@ header:
   image: ''
 ---
 
-This week I became aware of the R package blogdown (https://bookdown.org/yihui/blogdown), which was released on CRAN on 2017-08-22 (https://CRAN.R-project.org/package=blogdown). Initially, given the name, I presumed that it was an R package that facilitated the creation of a blog. But it is much more than that. Previously I was using reproducible tools by the author of blogdown (https://rmarkdown.rstudio.com and https://bookdown.org/yihui/bookdown) which can be used to create sophisticated products including books, research papers, and websites with an eye on reproducibility.
+This week I became aware of the R package blogdown (https://bookdown.org/yihui/blogdown), which was released on CRAN on 2017-08-22 (https://CRAN.R-project.org/package=blogdown). Initially, given the name, I presumed that it was an R package that facilitated the creation of a blog. But it is much more than that. Previously I was using reproducible tools by the author of blogdown (https://rmarkdown.rstudio.com and https://bookdown.org/yihui/bookdown) which were designed for creating sophisticated products including books, research papers, and websites with an eye on reproducibility.
 
 However, markdown and bookdown are referred to as "formal" while blogdown is referred to as "casual" by its creator, so they are intended for different audiences. I have been using markdown to create websites, and that works brilliantly. But blogdown adopts Hugo (https://gohugo.io) and provides disqus support (https://disqus.com) and allows you to get up to speed creating static sites in an open and free environment, accomplished by using GitHub (https://github.com) and netlify (https://www.netlify.com).
 
