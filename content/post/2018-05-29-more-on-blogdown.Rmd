@@ -44,7 +44,6 @@ Table: Here's the caption. It, too, may span
 multiple lines.
 
 And naturally we can create figures:
-
 ```{r testfig,echo=FALSE,fig.align='center'}
 plot(density(rchisq(10000,df=5)),main="")
 ```
