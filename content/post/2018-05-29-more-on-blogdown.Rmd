@@ -10,7 +10,7 @@ header:
   image: ''
 ---
 
-The R package blogdown "is an effort to integrate R Markdown with static website generators" according to its creator, Yihui Xie. He writes "Besides the advantage in website structures, another highlight of blogdown is that it inherited bookdown’s Markdown extensions (based on Pandoc’s Markdown), which means you can easily write technical content on your website, including everything that Pandoc supports (e.g., headings, lists, footnotes, tables, figures, citations, LaTeX math, and quotes, etc) and bookdown’s extensions (e.g., figure and table captions, cross-references, theorems, proofs, numbered equations, and HTML widgets, etc)."
+The R package blogdown "is an effort to integrate R Markdown with static website generators" according to its creator, Yihui Xie. He writes "Besides the advantage in website structures, another highlight of blogdown is that it inherited bookdown’s Markdown extensions (based on Pandoc’s Markdown), which means you can easily write technical content on your website, including everything that Pandoc supports (e.g., headings, lists, footnotes, tables, figures, citations,  \(\LaTeX\)  math, and quotes, etc) and bookdown’s extensions (e.g., figure and table captions, cross-references, theorems, proofs, numbered equations, and HTML widgets, etc)."
 
 I was so focused on website and blog creation that the obvious had escaped my notice. We may access the entire universe of R Markdown and bookdown from within our website. Co-author Rob Hyndman has a nice post about his experience migrating his Wordpress site to blogdown (https://support.rbind.io/2017/05/15/converting-robjhyndman-to-blogdown) where he highlights the inadequacies of various platforms he had used and how such limitations were overcome by switching to blogdown.
 
@@ -21,7 +21,7 @@ x <- rnorm(100)
 summary(x)
 ```
 
-Furthermore, we can write equations using LaTeX:
+Furthermore, we can write equations using  \(\LaTeX\) :
 \begin{equation}
 \hat\beta=(X'X)^{-1}X'Y
 \end{equation}
@@ -48,4 +48,4 @@ And, naturally, we can create figures:
 plot(density(rchisq(10000,df=5)),main="")
 ```
 
-So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R, LaTeX, markdown, bookdown) and allows one to leverage these tools without having to master the art of website creation.
+So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), markdown, bookdown) and allows one to leverage these tools without having to master the art of website creation.
