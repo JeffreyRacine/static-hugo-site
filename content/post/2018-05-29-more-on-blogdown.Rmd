@@ -21,7 +21,7 @@ x <- rnorm(100)
 summary(x)
 ```
 
-Furthermore, we can write equations using  \(\LaTeX\) :
+Furthermore, we can write equations using  \(\LaTeX\):
 \begin{equation}
 \hat\beta=(X'X)^{-1}X'Y
 \end{equation}
