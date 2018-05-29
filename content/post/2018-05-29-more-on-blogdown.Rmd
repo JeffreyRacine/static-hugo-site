@@ -43,11 +43,10 @@ We can write tables using standard rmarkdown:
 Table: Here's the caption. It, too, may span
 multiple lines.
 
-<!--
 And naturally we can create figures:
-```{r,echo=FALSE,fig.align='center'}
+
+```{r testfig,echo=FALSE,fig.align='center'}
 plot(density(rchisq(10000,df=5)),main="")
 ```
--->
 
 So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R, LaTeX, markdown, bookdown) and allows one to leverage these tools without having to master the art of website creation.
