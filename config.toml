@@ -75,7 +75,7 @@ enableGitInfo = false
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
-     discussion = { name = "Site Issues", url = "https://github.com/JeffreyRacine/static-hugo-site/issues" }
+     discussion = { name = "Report Site Issues", url = "https://github.com/JeffreyRacine/static-hugo-site/issues" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
