@@ -14,19 +14,19 @@ The R package blogdown "is an effort to integrate R Markdown with static website
 
 I was so focused on website and blog creation that the obvious had escaped my notice. We may access the entire universe of R Markdown and bookdown from within our website. Co-author Rob Hyndman has a nice post about his experience migrating his Wordpress site to blogdown (https://support.rbind.io/2017/05/15/converting-robjhyndman-to-blogdown) where he highlights the inadequacies of various platforms he had used and how such limitations were overcome by switching to blogdown.
 
-We can embed R code and enable code highlighting as follows:
+We can embed R code and enable code highlighting:
 
 ```{r,eval=FALSE}
 x <- rnorm(100)
 summary(x)
 ```
 
-We can write equations using LaTeX as follows:
+We can write equations using LaTeX:
 \begin{equation}
 \hat\beta=(X'X)^{-1}X'Y
 \end{equation}
 
-We can write tables using standard rmarkdown as follows:
+We can write tables using standard rmarkdown:
 
 -------------------------------------------------------------
  Centered   Default           Right Left
@@ -44,7 +44,7 @@ Table: Here's the caption. It, too, may span
 multiple lines.
 
 And naturally we can create figures:
-```{r,echo=FALSE}
+```{r,echo=FALSE,fig.align='center'}
 plot(density(rchisq(10000,df=5)),main="")
 ```
 
