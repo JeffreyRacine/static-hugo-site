@@ -15,7 +15,7 @@ The R package blogdown "is an effort to integrate R Markdown with static website
 
 I have been so focused on website and blog creation that the obvious had escaped my notice. We may access the entire universe of R Markdown and bookdown from within our website. Co-author Rob Hyndman has a [nice post](https://support.rbind.io/2017/05/15/converting-robjhyndman-to-blogdown) about his experience migrating his Wordpress site to blogdown where he highlights the inadequacies of various platforms he had used and how such limitations were overcome by switching to blogdown.
 
-By way of illustration, we can embed R code and enable code highlighting:
+By way of illustration, we can embed R code and enable code syntax highlighting:
 
 ```{r,eval=FALSE}
 x <- rnorm(100)
@@ -52,7 +52,7 @@ plot(density(rchisq(10000,df=5)),main="")
 
 We can also automatically cross-reference this figure using bookdown cross-referencing, e.g., Figure \@ref(fig:testfig).
 
-As well, we can use BibTeX for references per bookdown syntax, as in @bookdown and @blogdown, with bibtex being seamlessly invoked and the references being automatically generated and added to the end of this post.
+As well, we can use BibTeX for references per bookdown syntax, as in @bookdown and @blogdown, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.
 
 So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), BibTeX, markdown and bookdown) and allows one to leverage these tools without having to master the art of website creation.
 
