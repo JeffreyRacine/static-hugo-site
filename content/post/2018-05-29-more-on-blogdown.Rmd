@@ -52,7 +52,7 @@ plot(density(rchisq(10000,df=5)),main="")
 
 We can also automatically cross-reference this figure using bookdown cross-referencing, e.g., Figure \@ref(fig:testfig).
 
-As well, we can use BibTeX for references per bookdown syntax, as in @bookdown and @blogdown, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.
+As well, we can use BibTeX for references using bookdown reference syntax, as in @bookdown and @blogdown, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.
 
 So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), BibTeX, markdown and bookdown) and allows one to leverage these tools without having to master the art of website creation.
 
