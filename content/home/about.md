@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Econometrics",
     "Statistics",
-    "Computation PAU"
+    "Computation"
   ]
 
 # List your qualifications (such as academic degrees).
