@@ -21,12 +21,12 @@ x <- rnorm(100)
 summary(x)
 ```
 
-Furthermore, we can write equations using  \(\LaTeX\):
+Furthermore, we can create mathematical expressions and equations using standard \(\LaTeX\) commands:
 \begin{equation}
 \hat\beta=(X'X)^{-1}X'Y
 \end{equation}
 
-We can also create tables using standard rmarkdown:
+We can also create tables using standard markdown syntax:
 
 -------------------------------------------------------------
  Centered   Default           Right Left
@@ -43,7 +43,7 @@ We can also create tables using standard rmarkdown:
 Table: Here's the caption. It, too, may span
 multiple lines.
 
-And, naturally, we can create figures:
+And, naturally, we can effortlessly generate figures via inline R code:
 ```{r testfig,echo=FALSE,fig.align='center'}
 plot(density(rchisq(10000,df=5)),main="")
 ```
