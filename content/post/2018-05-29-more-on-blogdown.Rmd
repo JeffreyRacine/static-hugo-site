@@ -8,6 +8,7 @@ tags: []
 header:
   caption: ''
   image: ''
+bibliography: [post.bib]  
 ---
 
 The R package blogdown "is an effort to integrate R Markdown with static website generators" according to its creator, Yihui Xie. He writes "Besides the advantage in website structures, another highlight of blogdown is that it inherited bookdown’s Markdown extensions (based on Pandoc’s Markdown), which means you can easily write technical content on your website, including everything that Pandoc supports (e.g., headings, lists, footnotes, tables, figures, citations,  \(\LaTeX\)  math, and quotes, etc) and bookdown’s extensions (e.g., figure and table captions, cross-references, theorems, proofs, numbered equations, and HTML widgets, etc)."
@@ -43,9 +44,15 @@ We can also create tables using standard markdown syntax:
 Table: Here's the caption. It, too, may span
 multiple lines.
 
-And, naturally, we can effortlessly generate figures via inline R code:
-```{r testfig,echo=FALSE,fig.align='center'}
+And, naturally, we can effortlessly generate figures via inline R code, complete with captions and figure numbering if desired:
+```{r testfig,echo=FALSE,fig.align='center',fig.cap="Kernel Density Estimator Example."}
 plot(density(rchisq(10000,df=5)),main="")
 ```
 
-So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), markdown, bookdown) and allows one to leverage these tools without having to master the art of website creation.
+We can also automatically cross-reference this figure using bookdown cross-referencing, e.g., Figure \@ref(fig:testfig).
+
+As well, we can use BibTeX for references per bookdown syntax, as in @bookdown and @blogdown, with bibtex being seamlessly invoked and the references being automatically generated and added to the end of this post.
+
+So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), BibTeX, markdown and bookdown) and allows one to leverage these tools without having to master the art of website creation.
+
+# References
