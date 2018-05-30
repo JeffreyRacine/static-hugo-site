@@ -11,11 +11,14 @@ header:
 bibliography: [post.bib]  
 ---
 
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/pymjs/pym.v1.js"></script>
+<script src="/rmarkdown-libs/widgetframe-binding/widgetframe.js"></script>
 
 
 <p>The R package blogdown “is an effort to integrate R Markdown with static website generators” according to its creator, Yihui Xie. He writes “Besides the advantage in website structures, another highlight of blogdown is that it inherited bookdown’s Markdown extensions (based on Pandoc’s Markdown), which means you can easily write technical content on your website, including everything that Pandoc supports (e.g., headings, lists, footnotes, tables, figures, citations, <span class="math inline">\(\LaTeX\)</span> math, and quotes, etc) and bookdown’s extensions (e.g., figure and table captions, cross-references, theorems, proofs, numbered equations, and HTML widgets, etc).”</p>
 <p>I have been so focused on website and blog creation that the obvious had escaped my notice. We may access the entire universe of R Markdown and bookdown from within our website. Co-author Rob Hyndman has a <a href="https://support.rbind.io/2017/05/15/converting-robjhyndman-to-blogdown">nice post</a> about his experience migrating his Wordpress site to blogdown where he highlights the inadequacies of various platforms he had used and how such limitations were overcome by switching to blogdown.</p>
-<p>By way of illustration, we can embed R code and enable code highlighting:</p>
+<p>By way of illustration, we can embed R code and enable code syntax highlighting:</p>
 <pre class="r"><code>x &lt;- rnorm(100)
 summary(x)</code></pre>
 <p>Furthermore, we can create mathematical expressions and equations using standard <span class="math inline">\(\LaTeX\)</span> commands:
@@ -70,7 +73,10 @@ Figure 1: Kernel Density Estimator Example.
 </p>
 </div>
 <p>We can also automatically cross-reference this figure using bookdown cross-referencing, e.g., Figure <a href="#fig:testfig">1</a>.</p>
-<p>As well, we can use BibTeX for references per bookdown syntax, as in <span class="citation">Xie (2016)</span> and <span class="citation">Xie (2018)</span>, with bibtex being seamlessly invoked and the references being automatically generated and added to the end of this post.</p>
+<p>As well, we can use BibTeX for references using bookdown reference syntax, as in <span class="citation">Xie (2016)</span> and <span class="citation">Xie (2018)</span>, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.</p>
+<p>And, finally, we can create interactive HTML widgets using a simple R Markdown code chunk:</p>
+<div id="htmlwidget-1" style="width:90%;height:90%;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"url":"/post/2018-05-29-more-on-blogdown_files/figure-html//widgets/widget_unnamed-chunk-2.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
 <p>So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R, <span class="math inline">\(\LaTeX\)</span>, BibTeX, markdown and bookdown) and allows one to leverage these tools without having to master the art of website creation.</p>
 <div id="references" class="section level1 unnumbered">
 <h1>References</h1>

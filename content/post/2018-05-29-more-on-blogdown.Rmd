@@ -54,6 +54,12 @@ We can also automatically cross-reference this figure using bookdown cross-refer
 
 As well, we can use BibTeX for references using bookdown reference syntax, as in @bookdown and @blogdown, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.
 
+And, finally, we can create interactive HTML widgets using a simple R Markdown code chunk:
+
+```{r,echo=FALSE}
+widgetframe::frameWidget(DT::datatable(iris), height='90%', width='90%')
+```
+
 So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), BibTeX, markdown and bookdown) and allows one to leverage these tools without having to master the art of website creation.
 
 # References
