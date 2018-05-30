@@ -54,7 +54,7 @@ We can also automatically cross-reference this figure using bookdown cross-refer
 
 As well, we can use BibTeX for references using bookdown reference syntax, as in @bookdown and @blogdown, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.
 
-And, finally, we can create interactive HTML widgets using a simple R Markdown code chunk:
+And, finally, we can create interactive HTML widgets using a simple R Markdown code chunk (enter 0.1 in the search bar for an illustration):
 
 ```{r,echo=FALSE}
 widgetframe::frameWidget(DT::datatable(iris), height='90%', width='90%')
