@@ -46,6 +46,7 @@ multiple lines.
 
 And, naturally, we can effortlessly generate figures via inline R code, complete with captions and figure numbering if desired:
 ```{r testfig,echo=FALSE,fig.align='center',fig.cap="Kernel Density Estimator Example."}
+set.seed(42)
 plot(density(rchisq(10000,df=5)),main="")
 ```
 
