@@ -1,8 +1,3 @@
 # website
 
-This repository contains the code needed for continuous deployment of
-a static website hosted on netlify. This was built using the R package
-blogdown (https://github.com/rstudio/blogdown).
-
-For the production version of the website see https://racinejs.netlify.com
-
+This is the source repository of my [personal blog](https://racinejs.netlify.com). The website is generated via [blogdown](https://github.com/rstudio/blogdown) and deployed on [netlify](https://www.netlify.com).
