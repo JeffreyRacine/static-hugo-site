@@ -60,6 +60,6 @@ And, finally, we can create interactive HTML widgets using a simple R Markdown c
 widgetframe::frameWidget(DT::datatable(iris), height='90%', width='90%')
 ```
 
-So, as an academic, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), BibTeX, markdown and bookdown) and allows one to leverage these tools without having to master the art of website creation.
+So, from an academic perspective, this is pretty exciting since it takes all of the standard tools of the trade (R,  \(\LaTeX\), BibTeX, markdown and bookdown) and allows one to leverage these tools without having to master the art of website creation. *Focus on the narrative, not the tools*.
 
 # References
