@@ -52,7 +52,7 @@ plot(density(rchisq(10000,df=5)),main="")
 
 We can also automatically cross-reference this figure using bookdown cross-referencing, e.g., Figure \@ref(fig:testfig).
 
-As well, we can use BibTeX for references using bookdown reference syntax, as in @bookdown and @blogdown, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.
+As well, can use BibTeX for references using bookdown reference syntax, as in @bookdown and @blogdown, with BibTeX being seamlessly invoked and the references being automatically generated and added to the end of this post.
 
 And, finally, we can create interactive HTML widgets using a simple R Markdown code chunk (this required only one line of R code); enter 0.2 in the search bar which will filter on rows with a Petal Width of 0.2:
 
