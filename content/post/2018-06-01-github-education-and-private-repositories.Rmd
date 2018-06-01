@@ -1,5 +1,5 @@
 ---
-title: GitHub Education and Private Repositories
+title: GitHub Education and private repositories
 author: Jeffrey S. Racine
 date: '2018-06-01'
 slug: github-education-and-private-repositories
