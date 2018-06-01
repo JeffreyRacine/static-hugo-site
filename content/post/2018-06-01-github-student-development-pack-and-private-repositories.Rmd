@@ -10,7 +10,7 @@ header:
   image: ''
 ---
 
-Yesterday I was discussing workflow with a PhD student who I recently started supervising, and I encouraged her to get up to speed with [GitHub](https://github.com), which she did. I also discussed how I use GitHub for working with co-authors on R packages I have been involved with by adding them as "contributors" to a GitHub repository. 
+Yesterday I was discussing workflow with a PhD student who I recently started supervising, and I encouraged her to get up to speed with [GitHub](https://github.com), which she did. I also discussed how I use GitHub for working with co-authors on R packages by adding them as "contributors" to a GitHub repository. 
 
 I further suggested that this would be an ideal way for me to guide her through writing her dissertation since, for one, tracking changes is trivial and relieves me of having to re-read chapters multiple times. 
 
