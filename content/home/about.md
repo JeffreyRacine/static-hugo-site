@@ -45,6 +45,6 @@ I am a Professor in the Department of Economics and a Professor in the Graduate 
 
 My research interests include nonparametric estimation and inference, shape constrained estimation, cross-validatory model selection, frequentist model averaging, nonparametric instrumental methods, and entropy-based measures of dependence and their statistical underpinnings. I am also interested in parallel distributed computing paradigms and their application to computationally intensive nonparametric estimators.
 
-I am currently serving as an Associate Editor for Econometric Reviews and as the Deputy Editor-in-Chief for Econometrics.
+I am currently serving as an Associate Editor for the journal [*Econometric Reviews*](https://www.tandfonline.com/loi/lecr20) and as the Deputy Editor-in-Chief for the journal [*Econometrics*])http://www.mdpi.com/journal/econometrics).
 
 
