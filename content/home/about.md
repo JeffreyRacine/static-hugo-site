@@ -41,7 +41,7 @@ If you are searching for working papers, information about R packages I have aut
 
 # About Me
 
-I am a Professor in the Department of Economics and a Professor in the Graduate Program in Statistics in the Department of Mathematics and Statistics at McMaster University, which is located in Southern Ontario, Canada. I occupy the Senator William McMaster Chair in Econometrics and am a Fellow of the *Journal of Econometrics*. I have held previous appointments at Syracuse University, the University of South Florida, the University of California San Diego (two-year visiting appointment), and York University.
+I am a Professor in the Department of Economics and a Professor in the Graduate Program in Statistics in the Department of Mathematics and Statistics at McMaster University, which is located in Southern Ontario, Canada. I occupy the Senator William McMaster Chair in Econometrics and am a Fellow of the [*Journal of Econometrics*](https://www.journals.elsevier.com/journal-of-econometrics). I have held previous appointments at Syracuse University, the University of South Florida, the University of California San Diego (two-year visiting appointment), and York University.
 
 My research interests include nonparametric estimation and inference, shape constrained estimation, cross-validatory model selection, frequentist model averaging, nonparametric instrumental methods, and entropy-based measures of dependence and their statistical underpinnings. I am also interested in parallel distributed computing paradigms and their application to computationally intensive nonparametric estimators.
 
