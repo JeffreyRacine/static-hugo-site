@@ -208,7 +208,7 @@ enableGitInfo = false
   align_right = true
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "https://racinejs.netlify.com/:year/:month/:day/:slug/"
 
 [[menu.main]]
   name = "Home"
