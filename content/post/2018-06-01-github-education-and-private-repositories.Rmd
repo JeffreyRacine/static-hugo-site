@@ -14,7 +14,7 @@ Yesterday I was discussing workflow with a PhD student who I recently started su
 
 I also discussed how I use GitHub when working with co-authors on R packages by adding them as "contributors" to a public GitHub repository (the default repository type on GitHub). 
 
-I further suggested that this could be an ideal way for me to guide her through the process of writing her dissertation since, for one, tracking changes is trivial and relieves me of having to re-read chapters multiple times (she is writing her dissertation using rmarkdown and bookdown, naturally). 
+I further suggested that this could be an ideal way for me to guide her through the process of writing her dissertation since, for one, tracking changes is trivial and relieves me of having to re-read chapters multiple times (she is writing her dissertation using R Markdown and bookdown, naturally). 
 
 However, voicing privacy concerns, I asked her to look into creating private repositories which, I understood, were a GitHub feature that GitHub charged for. She did a quick search, located the [GitHub Education site](https://education.github.com) and the [Github Student Pack](https://education.github.com/pack/join) which now provides an unlimited number of private repositories *for free* for as long as you remain a student, subscribed and added me as a contributor to a new private repository that will house her dissertation. So far so good!
 
@@ -22,4 +22,6 @@ Then I took a quick peek, stumbled upon the link ["No, I'm not a student but wou
 
 > "Hey Jeffrey S. Racine, we have some awesome news. We've upgraded you to a plan with unlimited free private repositories, which will be free for the next two years. After that, you'll get an email saying that your coupon is expiring. You can reapply for another coupon if you still have academic status. We don't have any collaboration limits, so any group projects you may encounter can be hosted via your account."
 
-Needless to say, I am grateful for this service as it allows me to collaborate with students and co-authors privately via GitHub for early-stage projects (once a project has resulted in a paper ready for circulation, I place that in the public sphere as a [working paper on IDEAS/RePec](https://ideas.repec.org/s/mcm/deptwp.html) and [SSRN](https://www.ssrn.com/en)). Perhaps this previously unknown service might be of value to other academics, hence this post.
+Needless to say, I am grateful for this service as it allows me to collaborate with students and co-authors privately via GitHub for early-stage projects (once a project has resulted in a paper ready for circulation, I place that in the public sphere as a [working paper on IDEAS/RePec](https://ideas.repec.org/s/mcm/deptwp.html) and [SSRN](https://www.ssrn.com/en)). 
+
+Perhaps this previously unknown service might be of value to other academics, hence this post.
