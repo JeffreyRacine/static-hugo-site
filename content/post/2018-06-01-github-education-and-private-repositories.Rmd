@@ -20,7 +20,9 @@ However, voicing privacy concerns, I asked her to look into creating private rep
 
 Then I took a quick peek, stumbled upon the link ["No, I'm not a student but would still like a discount"](https://education.github.com/discount_requests/new), and submitted a request with a brief explanation of why I would like access to private repositories. I expected, if anything, a slight discount to the regular monthly fee ($7). Instead, I immediately received an email response stating
 
-> "Hey Jeffrey S. Racine, we have some awesome news. We've upgraded you to a plan with unlimited free private repositories, which will be free for the next two years. After that, you'll get an email saying that your coupon is expiring. You can reapply for another coupon if you still have academic status. We don't have any collaboration limits, so any group projects you may encounter can be hosted via your account."
+> "Hey Jeffrey S. Racine, we have some awesome news
+> 
+> We've upgraded you to a plan with unlimited free private repositories, which will be free for the next two years. After that, you'll get an email saying that your coupon is expiring. You can reapply for another coupon if you still have academic status. We don't have any collaboration limits, so any group projects you may encounter can be hosted via your account."
 
 Needless to say, I am grateful for this service as it allows me to collaborate with students and co-authors privately via GitHub for early-stage projects (once a project has resulted in a paper ready for circulation, I place that in the public sphere as a [working paper on IDEAS/RePec](https://ideas.repec.org/s/mcm/deptwp.html) and [SSRN](https://www.ssrn.com/en)). 
 
