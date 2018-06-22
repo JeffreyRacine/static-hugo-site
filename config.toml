@@ -197,8 +197,22 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/JeffreyRacine"
+    
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-5680-3705"    
+    
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Jeffrey_Racine"        
 
-
+  [[params.social]]
+    icon = "mendeley"
+    icon_pack = "ai"
+    link = "https://www.mendeley.com/profiles/jeffrey-racine" 
+    
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
