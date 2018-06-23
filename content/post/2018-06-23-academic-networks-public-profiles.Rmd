@@ -24,7 +24,7 @@ The past decade has witnessed exponential growth in the number of social media o
     
 - [GitHub `r icon::fa("github")`](https://github.com)
 
-    GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers.
+    GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers. GitHub has a strong commitment to education (visit the [Github Education Site](https://education.github.com) for details).
 
 - [Google Scholar `r icon::ai("google-scholar")`](https://scholar.google.ca)
 
