@@ -10,9 +10,9 @@ header:
   image: ''
 ---
 
-Knowledge transfer and the dissemination of research is often afforded no more than an afterthought, yet it is a crucial component of the academic mission. 
+Knowledge transfer and the dissemination of research is a crucial component of the academic mission, yet sometimes these are afforded no more than an afterthought.
 
-I strive to impress the often overlooked importance of replicability, automated backup procedures, and version control on my students. But dissemination of work at conferences, being visible, and in general "marketing" our research often gets short shrift. 
+I strive to impress upon my students and colleagues the often overlooked importance of replicability, automated backup procedures, and version control. But dissemination of work via academic conferences, being visible, and in general "marketing" our research to others often gets short shrift. 
 
 It is a shame when one spends months, perhaps years engaged in a research project yet no one is aware of the work, even when it eventually appears in print. "If a tree falls..." comes to mind.
 
@@ -42,4 +42,6 @@ The past decade has witnessed exponential growth in the number of social media o
 
     ORCID provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.
     
-It doesn't take much effort to create a profile and add some basic information on your academic status, education, research interests, and organize your publications. Even though there may be some overlap among the services, by creating each of these profiles you can give the visibility of your research a boost.
+It doesn't take much effort to create a profile and add some basic information about your academic status, education, research interests, and organize your publications. Even though there may be some overlap among the services, by creating each of these profiles you can give the visibility of your research a boost.
+
+One tip I might offer is that you occasionally log into your profiles and ensure that they accurately reflect your record and are current (perhaps a calendar entry twice a year would be worth the effort - the same goes for your personal and academic websites, naturally).
