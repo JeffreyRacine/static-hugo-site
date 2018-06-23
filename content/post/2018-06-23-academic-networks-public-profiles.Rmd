@@ -36,12 +36,12 @@ The past decade has witnessed exponential growth in the number of social media o
 
 - [Mendeley `r icon::ai("mendeley")`](https://www.mendeley.com)
 
-    Mendeley is a free reference manager and an academic social network
+    Mendeley is a free reference manager and an academic social network.
 
 - [ORCID `r icon::ai("orcid")`](https://orcid.org)
 
     ORCID provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.
     
-It doesn't take much effort to create a profile and add some basic information about your academic status, education, research interests, and organize your publications. Even though there may be some overlap among the services, by creating each of these profiles you can give the visibility of your research a boost.
+It doesn't take much effort to create a profile and add some basic information about your academic status, education, research interests, and organize your publications. Even though there may be some overlap among the services, by creating each of these profiles you can give the visibility of your research a potential boost.
 
 One tip I might offer is that you occasionally log into your profiles and ensure that they accurately reflect your record and are current (perhaps a calendar entry twice a year would be worth the effort - the same goes for your personal and academic websites, naturally).
