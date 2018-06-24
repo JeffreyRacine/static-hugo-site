@@ -18,7 +18,7 @@ It is a shame when one spends months and sometimes years engaged in a research p
 
 The past decade has witnessed exponential growth in the number of social media outlets designed for the general public. Similar growth has occurred for *academic* social media outlets and other hosting platforms. Some of the more popular in my field include
 
-- [IDEAS/RePEc](https://ideas.repec.org)
+- [IDEAS/RePEc `r icon::ai("ideas-repec")`](https://ideas.repec.org)
 
     IDEAS is the largest bibliographic database dedicated to Economics and available freely on the Internet, based on RePEc. RePEc is a large volunteer effort to enhance the free dissemination of research in Economics which includes bibliographic metadata from over 2,000 participating archives, including all the major publishers and research outlets.
     
