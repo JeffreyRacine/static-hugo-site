@@ -199,6 +199,11 @@ enableGitInfo = false
     link = "https://scholar.google.com/citations?user=TXeKxGsAAAAJ"
 
   [[params.social]]
+    icon = "ideas-repec"
+    icon_pack = "ai"
+    link = "https://ideas.repec.org/e/pra175.html"    
+
+  [[params.social]]
     icon = "mendeley"
     icon_pack = "ai"
     link = "https://www.mendeley.com/profiles/jeffrey-racine"
@@ -212,6 +217,7 @@ enableGitInfo = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Jeffrey_Racine"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
