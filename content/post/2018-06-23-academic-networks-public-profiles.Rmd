@@ -10,7 +10,7 @@ header:
   image: ''
 ---
 
-Knowledge transfer and the dissemination of research are crucial components of the academic mission, yet sometimes these are afforded no more than an afterthought.
+Knowledge transfer and the dissemination of research are vital components of the academic mission, yet sometimes these are afforded no more than an afterthought.
 
 I strive to impress upon my students and colleagues the often overlooked importance of replicability, automated backup procedures, and version control. But dissemination of work via academic conferences, being a visible member of the international academic community, and in general "marketing" our research to others often gets short shrift. 
 
@@ -36,8 +36,8 @@ The past decade has witnessed exponential growth in the number of social media o
 
 - [Mendeley `r icon::ai("mendeley")`](https://www.mendeley.com)
 
-    Mendeley is a free reference manager and an academic social network.
-
+    Mendeley is a free reference manager and an academic social network for managing and sharing research papers, discovering research data and collaborating online.
+    
 - [ORCID `r icon::ai("orcid")`](https://orcid.org)
 
     ORCID provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.
