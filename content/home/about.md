@@ -39,7 +39,7 @@ This website exists to facilitate discussion about any manner of things, academi
 
 If you are searching for working papers, information about R packages or textbooks that I have authored, a current curriculum vitae, course information and the like, kindly [visit my primary McMaster academic website](https://socialsciences.mcmaster.ca/people/racinej).
 
-<i class="fa fa-rss"></i> To receive blog updates from this site, you can subscribe using an [RSS feed reader](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader) by simply adding the URL for this site to your RSS feed (I use [feedly](https://feedly.com/i/welcome)].
+<i class="fa fa-rss"></i> To receive blog updates from this site, you can subscribe using an [RSS feed reader](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader) by simply adding the URL for this site to your RSS feed (I use [feedly](https://feedly.com/i/welcome)).
 
 # About Me
 
