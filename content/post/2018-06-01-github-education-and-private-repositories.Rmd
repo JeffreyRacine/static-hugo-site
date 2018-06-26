@@ -40,6 +40,6 @@ Then I took a quick peek, stumbled upon the link ["No, I'm not a student but wou
 >
 > -- The GitHub Education Team
 
-Needless to say, I am grateful for this service as it allows me to collaborate with students and co-authors privately via GitHub for early-stage projects (once a project has resulted in a paper ready for circulation, I place that in the public sphere as a [working paper on IDEAS/RePec](https://ideas.repec.org/s/mcm/deptwp.html) and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1401547)). 
+Needless to say, I am grateful for this service as it allows me to collaborate with students and co-authors privately via GitHub for early-stage projects (once a project has resulted in a paper ready for circulation, I place that in the public sphere as a [working paper on IDEAS/RePec](https://ideas.repec.org/e/pra175.html) and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1401547)). 
 
 Perhaps this previously unknown service might be of value to other academics, hence this post.
