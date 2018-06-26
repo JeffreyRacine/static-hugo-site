@@ -39,6 +39,8 @@ This website exists to facilitate discussion about any manner of things, academi
 
 If you are searching for working papers, information about R packages or textbooks that I have authored, a current curriculum vitae, course information and the like, kindly [visit my primary McMaster academic website](https://socialsciences.mcmaster.ca/people/racinej).
 
+<i class="fa fa-rss"></i> To receive post updates from this site, you can subscribe using an [RSS feed reader](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader) by simply adding the URL for this site to your RSS feed.
+
 # About Me
 
 I am a Professor in the Department of Economics and a Professor in the Graduate Program in Statistics in the Department of Mathematics and Statistics at McMaster University, which is located in Southern Ontario, Canada. I occupy the Senator William McMaster Chair in Econometrics and am a Fellow of the [*Journal of Econometrics*](https://www.journals.elsevier.com/journal-of-econometrics). I have held previous appointments at Syracuse University, the University of South Florida, the University of California San Diego (two-year visiting appointment), and York University.
@@ -47,4 +49,3 @@ My research interests include nonparametric estimation and inference, shape cons
 
 I am currently serving as an Associate Editor for the journal [*Econometric Reviews*](https://www.tandfonline.com/loi/lecr20) and as the Deputy Editor-in-Chief for the journal [*Econometrics*](http://www.mdpi.com/journal/econometrics).
 
-<i class="fa fa-rss"></i> To receive post updates from this site, you can subscribe using an [RSS feed reader](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader) by simply adding the URL for this site to your RSS feed.
