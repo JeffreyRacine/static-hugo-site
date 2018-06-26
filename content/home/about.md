@@ -47,4 +47,4 @@ My research interests include nonparametric estimation and inference, shape cons
 
 I am currently serving as an Associate Editor for the journal [*Econometric Reviews*](https://www.tandfonline.com/loi/lecr20) and as the Deputy Editor-in-Chief for the journal [*Econometrics*](http://www.mdpi.com/journal/econometrics).
 
-
+To receive post updates from this site, you can subscribe using an [RSS feed reader](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader) by simply adding the URL for this site.
