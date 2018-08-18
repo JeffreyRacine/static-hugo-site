@@ -35,7 +35,7 @@ weight = 5
 
 # About This Site
 
-This website exists to XXX encourage discussion about any manner of things, academic or otherwise. If this site has a bias, it is likely towards open and free computing technology that streamlines workflow, particularly tools for pursuing reproducible research. One difference between this site and my [primary academic website](https://socialsciences.mcmaster.ca/people/racinej) is the presence of a blog that presents a forum for further discussion in the public sphere.
+This website exists to encourage discussion about any manner of things, academic or otherwise. If this site has a bias, it is likely towards open and free computing technology that streamlines workflow, particularly tools for pursuing reproducible research. One difference between this site and my [primary academic website](https://socialsciences.mcmaster.ca/people/racinej) is the presence of a blog that presents a forum for further discussion in the public sphere.
 
 If you are searching for working papers, information about R packages or textbooks that I have authored, a current curriculum vitae, course information and the like, kindly [visit my primary McMaster academic website](https://socialsciences.mcmaster.ca/people/racinej).
 
