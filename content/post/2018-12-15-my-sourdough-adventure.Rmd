@@ -137,7 +137,7 @@ Note that it is currently winter, and our kitchen temperature is 70F during the 
 
 - 10:00 pm: refrigerate at 37F.
 
-You can let the dough retard in the refrigerator anywhere from 12 to 36 hours at 37F (or longer, just keep an eye on things to avoid overproofing). We typically start Friday evening after work, bake the first boule Sunday morning, and bake the second Wednesday morning before heading to work, which lasts us through the following Saturday. Sourdough freezes beautifully, and we often cut a few slices and place them in an airtight container in the freezer and then pop them directly into the toaster when in need of a fresh fix.
+You can let the dough retard in the refrigerator anywhere from 12 to 36 hours at 37F (or longer, just keep an eye on things to avoid overproveing). We typically start Friday evening after work, bake the first boule Sunday morning, and bake the second Wednesday morning before heading to work, which lasts us through the following Saturday. Sourdough freezes beautifully, and we often cut a few slices and place them in an airtight container in the freezer and then pop them directly into the toaster when in need of a fresh fix.
 
 ## Pro-Tips
 
@@ -219,7 +219,7 @@ You can let the dough retard in the refrigerator anywhere from 12 to 36 hours at
 
 # A Recent Bake
 
-The following images track a recent bake using the 900 gram pre-baked weight recipe.
+The following images track a recent bake using the 900 gram pre-baked weight recipe, starting with the end of the bulk ferment through to the bake, then a peek at the crumb.
 
 <img alt = 'End of bulk fermentation' width='200' src='/img/sourdough/IMG_1178.jpeg' />
 
@@ -227,7 +227,7 @@ The following images track a recent bake using the 900 gram pre-baked weight rec
 
 <img alt = 'Start of final prove' width='200' src='/img/sourdough/IMG_1181.jpeg' />
 
-<img alt = 'After 2-3 hours proving on the counter-top then overnight in the refrigerator' width='200' src='/img/sourdough/IMG_1183.jpeg' />
+<img alt = 'After 2-3 hours proving on the countertop then overnight in the refrigerator' width='200' src='/img/sourdough/IMG_1183.jpeg' />
 
 <img alt = 'About to place on the parchment sling' width='200' src='/img/sourdough/IMG_1184.jpeg' />
 
