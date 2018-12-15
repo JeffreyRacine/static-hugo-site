@@ -225,7 +225,7 @@ The following images track a recent bake using the 900 gram pre-baked weight rec
 
 <img alt = 'Mockmill' width='300' src='/img/sourdough/IMG_0993.jpeg' />
 
-## Stone Milling Rice Flour
+## Stone Milling Rice Flour (For Dusting the Banneton)
 
 <img alt = 'Mockmill flour' width='300' src='/img/sourdough/IMG_0302.jpeg' />
 
