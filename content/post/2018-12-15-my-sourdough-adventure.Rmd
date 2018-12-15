@@ -227,7 +227,7 @@ The following images track a recent bake using the 900 gram pre-baked weight rec
 
 ## The Stone Milled Whole Grain Flour
 
-<img alt = 'Mockmill flour' width='300' src='/img/sourdough/IMG_0994.jpeg' />
+<img alt = 'Mockmill flour' width='300' src='/img/sourdough/IMG_0302.jpeg' />
 
 
 ## Bulk Fermentation Complete
