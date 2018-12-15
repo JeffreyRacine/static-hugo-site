@@ -1,5 +1,5 @@
 ---
-title: My Sourdough Adventure
+title: My sourdough adventure
 author: Jeffrey S. Racine
 date: '2018-12-15'
 slug: my-sourdough-adventure
