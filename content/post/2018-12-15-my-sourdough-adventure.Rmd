@@ -127,7 +127,7 @@ Note that this post was written in the winter where our kitchen temperature is r
 
     - 6:30 pm: grind the wheat berries in your stone mill, heat the water to 95F (I heat a Pyrex glass measuring cup containing the amount of water given in the recipe in a microwave, checking the temperature every 30 seconds or so), then combine the water, the milled flour, the hard flour, and the all purpose flour in your mixing bowl. 
     
-    - Next, mix these ingredients in your stand mixer^[You can, of course, do this by hand, though it may take a little longer.] for 1-2 minutes on the lowest setting using a dough hook, mixing until a *shaggy* ball of dough takes shape and all of the flour is incorporated. 
+    - Mix these ingredients in your stand mixer^[You can, of course, do this by hand, though it may take a little longer.] for 1-2 minutes on the lowest setting using a dough hook, mixing until a *shaggy* ball of dough takes shape and all of the flour is incorporated. 
     
     - Leave the autolyse in the mixing bowl *covered* with plastic wrap on the countertop overnight (the starting dough temperature aimed for is around 78F).
 
@@ -155,7 +155,9 @@ Note that this post was written in the winter where our kitchen temperature is r
 
     - 10:00 pm: refrigerate the covered banneton overnight at 37F.
 
-    - You can let the dough retard in the refrigerator anywhere from 12 to 36 hours at 37F (or longer, just keep an eye on things to avoid over-proving). We typically start the process Friday evening after work, bake the first boule Sunday morning, and bake the second Wednesday morning before heading to work, which lasts us through the following Saturday. 
+    - You can let the dough retard in the refrigerator anywhere from 12 to 36 hours at 37F (or longer, just keep an eye on things to avoid over-proving). 
+    
+    - We typically start the process Friday evening after work, bake the first boule Sunday morning, and bake the second Wednesday morning before heading to work, which lasts us through the following Saturday. 
     
     - Sourdough freezes beautifully, and we often cut a few slices and place them in an airtight container in the freezer and then pop them directly into the toaster when in need of a fresh fix.
 
