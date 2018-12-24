@@ -127,9 +127,9 @@ I would estimate that the total hands-on time is perhaps 1 hour though the proce
 
 1. Autolyse (Friday Night, 15 Minutes)
 
-    - 6:30 pm: grind the wheat berries in your stone mill, heat the water to 95F (I heat a Pyrex glass measuring cup containing the amount of water given in the recipe in a microwave, checking the temperature every 30 seconds or so), then combine the water, the milled flour, the hard flour, and the all purpose flour in your mixing bowl. 
+    - 6:30 pm: grind the wheat berries in the stone mill, heat the water to 95F (I heat a Pyrex glass measuring cup containing the amount of water given in the recipe in a microwave, checking the temperature every 30 seconds or so), then combine the water, the milled flour, the hard flour, and the all purpose flour in the mixing bowl. 
     
-    - Mix these ingredients using your stand mixer for 1-2 minutes on the lowest setting using a dough hook (you can, of course, do this by hand, though it may take a little longer), mixing until a *shaggy* ball of dough takes shape and all of the flour is incorporated. 
+    - Mix these ingredients using the stand mixer for 1-2 minutes on the lowest setting using a dough hook (you can, of course, do this by hand, though it may take a little longer), mixing until a *shaggy* ball of dough takes shape and all of the flour is incorporated. 
     
     - Let this autolyse rest on the countertop at room temperature overnight---leave it in the mixing bowl *covered* with plastic wrap (the starting dough temperature aimed for is around 78F).
     
@@ -137,9 +137,9 @@ I would estimate that the total hands-on time is perhaps 1 hour though the proce
 
 1. Bulk Ferment (Saturday Morning, 15 Minutes Intermittently)
 
-    - 7:30 am: use a warm water bath to bring the dough back to around 78F, achieved by placing the mixing bowl in your kitchen sink filled with 3-5 inches of warm water for roughly 10-15 minutes.
+    - 7:30 am: use a warm water bath to bring the dough back to around 78F, achieved by placing the mixing bowl in the kitchen sink filled with 3-5 inches of warm water for roughly 10-15 minutes.
     
-    - 7:45 am: add the *levain* and *salt* to the autolyse in the mixing bowl and then mix the dough for 1-2 minutes using your stand mixer at the lowest setting using the dough hook (again, you can do this by hand if you prefer), then *cover* with plastic wrap and return to the warm water bath until the dough returns to around 78F.
+    - 7:45 am: add the *levain* and *salt* to the autolyse in the mixing bowl and then mix the dough for 1-2 minutes using the stand mixer at the lowest setting using the dough hook (again, you can do this by hand if you prefer), then *cover* with plastic wrap and return to the warm water bath until the dough returns to around 78F.
 
     - 8:00 am: let the bulk fermentation commence with a set of stretch-and-folds,  3-4 sets in total each occurring 30-45 minutes apart, and *cover* with plastic wrap in between. 
     
@@ -167,7 +167,7 @@ I would estimate that the total hands-on time is perhaps 1 hour though the proce
 
 ## Pro-Tips
 
-- Always hold back some of your starter to be fed and kept for the next session---20 grams or more is fine, I feed ours with an equal amount of water and starter mix (50 grams each). For weekly feeding, place the fed starter in the refrigerator, covered, and remove two days before needed and feed at least twice before using. I do the last feed prior to use just before going to bed after preparing the autolyse (for 2 loaves feed 25 grams of starter using 100 grams each of water and starter mix the night before---you can do this in a separate container from the one you keep your starter culture in if you prefer).
+- Always hold back some of the starter to be fed and kept for the next session---20 grams or more is fine, I feed ours with an equal amount of water and starter mix (50 grams each). For weekly feeding, place the fed starter in the refrigerator, covered, and remove two days before needed and feed at least twice before using. I do the last feed prior to use just before going to bed after preparing the autolyse (for 2 loaves feed 25 grams of starter using 100 grams each of water and starter mix the night before---you can do this in a separate container from the one you keep your starter culture in if you prefer).
 
 - Ken Forkish advises us to treat *time* and *temperature* as ingredients (there is an inverse relationship between the two with regards to fermentation).
 
@@ -181,7 +181,7 @@ I would estimate that the total hands-on time is perhaps 1 hour though the proce
 
 - Use a Dutch Oven! During the first 10 minutes of the bake, steam plays a very important role by keeping the outer layer (eventually the crust) supple while the boule expands. Commercial bakers have special ovens with a steam feature, but the typical home oven does not, so steam must be introduced one way or another. Some use a spray bottle, others a pan with water in it, but these pale in comparison with using an oven designed for bread baking. However, if you trapped the moisture released by the dough during the first 10 minutes of baking, the hydration of a typical sourdough boule would create an environment almost identical to one found in an oven with a steam feature. And the Dutch Oven is perfect for trapping this moisture. In addition, sourdough boules tend to spread out as they bake, and an appropriately sized Dutch Oven (3-5 quarts with a 9-10 inch diameter base, such as the Lodge combo cooker) provides the additional support needed. So, by using a Dutch Oven you get greater oven spring (the extra support plus the steam) and a better crust to boot. Ken Forkish claims that he gets the same results using a Dutch Oven in his home oven as he does at his bakery. I have used a baking stone with water in a pan and have used a Dutch Oven, and hands down the Dutch Oven is the winner.
 
-- Pre-heat your kitchen oven with the Dutch Oven inside for at least 15 minutes (or more) *after* the oven reaches 450F before baking the boule.
+- Pre-heat the kitchen oven with the Dutch Oven inside for at least 15 minutes (or more) *after* the oven reaches 450F before baking the boule.
 
 - When removing the boule from the banneton, first place the banneton on the countertop on top of parchment paper cut in the shape of a sling. Next, transfer the boule from the banneton to the parchment paper with a smooth *flip and tap* of the banneton's edge so that the boule rests dead center on the parchment covered countertop, then score the boule. Finally, gently pick up the sling and then lower it into the Dutch Oven being careful to *not touch* the sides of the hot Dutch Oven with your hands (one nice side effect of using parchment paper is that there is no need to clean the Dutch Oven afterwards---the parchment collects any debris).
 
