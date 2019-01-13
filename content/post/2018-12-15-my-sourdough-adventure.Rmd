@@ -67,9 +67,7 @@ When the seed Michael Pollen inadvertently planted in my mind began to germinate
 
 ## 812 gram boule pre-baked weight
 
-- 114 grams unbleached bread flour.
-
-- 114 grams unbleached all purpose flour.
+- 228 grams unbleached bread flour.
 
 - 206 grams hard wheat berries (e.g., red fife) home milled into whole grain flour.
 
@@ -85,9 +83,7 @@ This results in a 75% hydration boule of approximately 812 grams in pre-baked we
 
 ## 900 gram boule pre-baked weight
 
-- 127 grams unbleached bread flour.
-
-- 126 grams unbleached all purpose flour.
+- 253 grams unbleached bread flour.
 
 - 228 grams hard wheat berries (e.g., red fife) home milled into whole grain flour.
 
@@ -103,9 +99,7 @@ This results in a 75% hydration boule of approximately 900 grams in pre-baked we
 
 ## 1 kilogram boule pre-baked weight
 
-- 141 grams unbleached bread flour.
-
-- 141 grams unbleached all purpose flour.
+- 282 grams unbleached bread flour.
 
 - 253 grams hard wheat berries (e.g., red fife) home milled into whole grain flour.
 
@@ -127,7 +121,7 @@ I would estimate that the total hands-on time is perhaps 1 hour though the proce
 
 1. Autolyse (Friday Night, 15 Minutes)
 
-    - 6:30 pm: grind the wheat berries in the stone mill, heat the water to 95F (I heat a Pyrex glass measuring cup containing the amount of water given in the recipe in a microwave, checking the temperature every 30 seconds or so), then combine the water, the milled flour, the hard flour, and the all purpose flour in the mixing bowl. 
+    - 6:30 pm: grind the wheat berries in the stone mill, heat the water to 95F (I heat a Pyrex glass measuring cup containing the amount of water given in the recipe in a microwave, checking the temperature every 30 seconds or so), then combine the water, the milled flour and the hard flour in the mixing bowl. 
     
     - Mix these ingredients using the stand mixer for 1-2 minutes on the lowest setting using a dough hook (you can, of course, do this by hand, though it may take a little longer), mixing until a *shaggy* ball of dough takes shape and all of the flour is incorporated. 
     
@@ -170,6 +164,8 @@ I would estimate that the total hands-on time is perhaps 1 hour though the proce
 - Always hold back some of the starter to be fed and kept for the next session---20 grams or more is fine, I feed ours with an equal amount of water and starter mix (50 grams each). For weekly feeding, place the fed starter in the refrigerator, covered, and remove two days before needed and feed at least twice before using. I do the last feed prior to use just before going to bed after preparing the autolyse (for 2 loaves feed 25 grams of starter using 100 grams each of water and starter mix the night before---you can do this in a separate container from the one you keep your starter culture in if you prefer).
 
 - Ken Forkish advises us to treat *time* and *temperature* as ingredients (there is an inverse relationship between the two with regards to fermentation).
+
+- When temperatures are cooler (e.g., winter), to get more of a rise in a given amount of time simply increase the amount of starter by, say, 20% more than called for in the recipe (experiment with the amount, and let the final prove in the banneton be your guide).
 
 - The key to an extended autolyse is to not let the dough get cold. When we are in the fermentation stage, a cold environment slows the rate of fermentation of bread, thus allowing flavors to develop. With the autolyse, the goal is to make the dough more extensible, and warmer temperatures help with this process. Why do we want extensible dough? Because extensible dough opens up more during baking, which is how we get that coveted *open crumb*. When the levain is added later, the acid will counter the extension benefits of autolyse, building and strengthening the dough. At the end of final fermentation, these two environments (autolyse, without added levain versus fermentation of the dough once levain is added) create a balanced dough that is both extensible and elastic.
 
